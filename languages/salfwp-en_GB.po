@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Emzon Links\n"
+"POT-Creation-Date: 2020-03-12 01:14+0500\n"
+"PO-Revision-Date: 2020-03-12 01:17+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: simple-emzon-links.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/ConfigurationPage.php:11 includes/WelcomePage.php:10
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: includes/ConfigurationPage.php:11 includes/WelcomePage.php:10
+#, php-format
+msgid "v %s"
+msgstr "v %s"
+
+#: includes/ConfigurationPage.php:13 includes/WelcomePage.php:12
+msgid "Support Portal"
+msgstr "Support Portal"
+
+#: includes/ConfigurationPage.php:23
+msgid "API Mode"
+msgstr "API Mode"
+
+#: includes/ConfigurationPage.php:24
+msgid "Choose between Product Advertising API v5 or v4"
+msgstr "Choose between Product Advertising API v5 or v4"
+
+#: includes/ConfigurationPage.php:26
+msgid "Lagacy Mode"
+msgstr "Lagacy Mode"
+
+#: includes/ConfigurationPage.php:27
+msgid "Product Advertising API - v5"
+msgstr "Product Advertising API - v5"
+
+#: includes/ConfigurationPage.php:33
+msgid "Access Tag ID"
+msgstr "Access Tag ID"
+
+#: includes/ConfigurationPage.php:34
+msgid "Enter your Amazon Tag ID"
+msgstr "Enter your Amazon Tag ID"
+
+#: includes/ConfigurationPage.php:39
+msgid "Access Key ID"
+msgstr "Access Key ID"
+
+#: includes/ConfigurationPage.php:40
+msgid "Enter your Amazon Access Key ID"
+msgstr "Enter your Amazon Access Key ID"
+
+#: includes/ConfigurationPage.php:45
+msgid "Access Key Secret"
+msgstr "Access Key Secret"
+
+#: includes/ConfigurationPage.php:46
+msgid "Enter your Amazon Access Key Secret"
+msgstr "Enter your Amazon Access Key Secret"
+
+#: includes/ConfigurationPage.php:51
+msgid "Load Stylesheet and Scripts"
+msgstr "Load Stylesheet and Scripts"
+
+#: includes/ConfigurationPage.php:52
+msgid ""
+"When this option is on, this plugin add own pre-defined stylesheet and "
+"script to the frontend. When it is off, you have to add your own stylesheet."
+msgstr ""
+"When this option is on, this plugin add own pre-defined stylesheet and "
+"script to the frontend. When it is off, you have to add your own stylesheet."
+
+#: includes/ConfigurationPage.php:57
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: includes/ConfigurationPage.php:118
+msgid "ON"
+msgstr "ON"
+
+#: includes/ConfigurationPage.php:119
+msgid "OFF"
+msgstr "OFF"
+
+#: includes/WelcomePage.php:18
+msgid ""
+"We made every small element, motion and interaction so neat and lovely, that "
+"you can entirely focus on the big picture. Hope you'll enjoy it the same as "
+"we do!"
+msgstr ""
+"We made every small element, motion and interaction so neat and lovely, that "
+"you can entirely focus on the big picture. Hope you'll enjoy it the same as "
+"we do!"
+
+#: includes/WelcomePage.php:20
+#, php-format
+msgid ""
+"Thanks to %s for their time and great efforts to develop this WordPress "
+"Plugin. We appreciate it very much."
+msgstr ""
+"Thanks to %s for their time and great efforts to develop this WordPress "
+"Plugin. We appreciate it very much."
+
+#: includes/WelcomePage.php:22
+msgid "You can follow us on the following platforms:"
+msgstr "You can follow us on the following platforms:"
+
+#: includes/WelcomePage.php:25 includes/WelcomePage.php:27
+#, php-format
+msgid "Follow %s on <a href=\"%s\" target=\"_blank\">Twitter</a>"
+msgstr "Follow %s on <a href=\"%s\" target=\"_blank\">Twitter</a>"
+
+#: includes/WelcomePage.php:26
+#, php-format
+msgid "Follow WDDPortfolio on <a href=\"%s\" target=\"_blank\">Facebook</a>"
+msgstr "Follow WDDPortfolio on <a href=\"%s\" target=\"_blank\">Facebook</a>"
+
+#: includes/blocks/class-salfwp-block.php:156
+msgid "Amazon Products will Display Here"
+msgstr "Amazon Products will Display Here"
+
+#: includes/class-shortcode.php:168
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: includes/class-shortcode.php:297
+msgid "Something went wrong."
+msgstr "Something went wrong."
+
+#: includes/class-shortcode.php:299
+msgid "Item or Product Advertisement API not Configured"
+msgstr "Item or Product Advertisement API not Configured"
+
+#. Plugin Name of the plugin/theme
+#: simple-emzon-links.php:77
+msgid "Simple Emzon Links"
+msgstr "Simple Emzon Links"
+
+#: simple-emzon-links.php:100
+msgid "Settings"
+msgstr "Settings"
+
+#: simple-emzon-links.php:101
+msgid "Rate Us"
+msgstr "Rate Us"
+
+#: simple-emzon-links.php:111
+msgid "Configuration"
+msgstr "Configuration"
+
+#: simple-emzon-links.php:112
+msgid "About"
+msgstr "About"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/wddportfolio/simple-emzon-links/"
+msgstr "https://github.com/wddportfolio/simple-emzon-links/"
+
+#. Description of the plugin/theme
+msgid ""
+"Simple Emzon Links is a simple WordPress plugin that allow you to display "
+"Amazon Affiliates Products in a Post, Page or Sidebar."
+msgstr ""
+"Simple Emzon Links is a simple WordPress plugin that allow you to display "
+"Amazon Affiliates Products in a Post, Page or Sidebar."
+
+#. Author of the plugin/theme
+msgid "WDDPortfolio"
+msgstr "WDDPortfolio"
+
+#. Author URI of the plugin/theme
+msgid "https://www.wddportfolio.com/"
+msgstr "https://www.wddportfolio.com/"

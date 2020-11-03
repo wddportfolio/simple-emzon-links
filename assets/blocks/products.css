@@ -1,0 +1,31 @@
+.salfwp-amazon-product {
+	display: flex;
+    flex-direction: column;
+    padding: 14px;
+    background-color: rgba(139, 139, 150, 0.1);
+    font-size: 13px;
+    border-radius: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    margin-bottom: 28px;
+    flex-wrap:wrap;
+}
+
+.salfwp-amazon-product .components-base-control
+{
+	width:80%;
+	max-width:80%;
+	flex:0 0 80%;
+	margin-bottom: 15px;
+}
+
+.salfwp-amazon-product .components-base-control.components-toggle-control .components-toggle-control__label
+{
+	line-height: 18px;
+}
+
+.salfwp-amazon-product .components-base-control select,
+.salfwp-amazon-product .components-base-control textarea
+{
+	width:100%;
+	max-width:100%;
+}
